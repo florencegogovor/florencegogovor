@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... ReactJs
 - 🌱 I’m currently learning ... C# / ASP.NET
 - 👯 I’m looking to collaborate on ... ASP.NET and REACT
-- 📫 How to reach me: ... <a href="https://www.linkedin.com/in/kindeme-kounoudji/"> Linkedin</a>                          
+- 📫 How to reach me: ... 
+- <a href="https://www.linkedin.com/in/kindeme-kounoudji/" target="_Blank"> Linkedin</a>                          
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... I love dancing
 
