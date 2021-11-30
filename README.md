@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... I love dancing
 
-
