@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... C# / ASP.NET
 - 👯 I’m looking to collaborate on ... ASP.NET and REACT
 - 📫 How to reach me: ... 
-- <a href="https://www.linkedin.com/in/kindeme-kounoudji/" target="_Blank"> Linkedin</a>                          
+  <ul><li><a href="https://www.linkedin.com/in/kindeme-kounoudji/" target="_Blank"> Linkedin</a></li></ul>                          
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... I love dancing
 
