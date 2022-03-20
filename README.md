@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
   <ul><li><a href="https://www.linkedin.com/in/kindeme-kounoudji/" target="_Blank"> Linkedin</a></li></ul>                          
 - 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ... I love dancing
+- ⚡ Fun fact: ... I love Soccer and dancing
 
