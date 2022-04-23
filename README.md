@@ -8,10 +8,10 @@ Hi there, Welcome to Kindeme Kounoudji's Github profile! </h3>
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... ReactJs
-- 🌱 I’m currently learning ... ReactJs / Java
-- 👯 I’m looking to collaborate on ... Java and REACT
+- 🌱 I’m currently learning ... ReactJs / C#
+- 👯 I’m looking to collaborate on ... C# and REACT
 - 📫 How to reach me: ... 
   <ul><li><a href="https://www.linkedin.com/in/kindeme-kounoudji/" target="_Blank"> Linkedin</a></li></ul>                          
 - 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ... I love Soccer and dancing
+- ⚡ Fun fact: ... I love Soccer and Reading
 
