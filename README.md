@@ -7,7 +7,7 @@ Hi there, Welcome to Kindeme Kounoudji's Github profile! </h3>
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...MEARN
+- 🔭 I’m currently working on ...MERN
 - 🌱 I’m currently learning ... ReactJs 
 
 - 📫 How to reach me: ... 
