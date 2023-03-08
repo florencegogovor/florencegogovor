@@ -7,8 +7,8 @@ Hi there, Welcome to Kin Gogovor's Github profile! </h3>
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...MERN
-- 🌱 I’m currently learning ... ReactJs 
+- 🔭 I’m currently working on system administrator skills such as Windows server and Linux server administration
+- 🌱 I’m currently learning ... Security+
 
 - 📫 How to reach me: ... 
   <ul><li><a href="https://www.linkedin.com/in/kingogovor/" target="_Blank"> Linkedin</a></li></ul>                          
