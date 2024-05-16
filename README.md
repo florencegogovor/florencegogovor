@@ -9,10 +9,9 @@ Hello, I'm Florence Gogovor </h3>
 Here are some ideas to get you started:
 -->
 - 🔭 I'm a Cybersecurity Junior with passion for threat hunting, digital forensics and incident response. Currently building my Security Analyst skills through the use of certifications and projects/labs.
+  
 - 🌱 I expect to graduate in July 2025 with a Bachelor’s degree in Cybersecurity and Information Assurance
-
-- 📫 How to reach me: ... 
-                        
+                      
 - 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ... I love Reading and music in my spare time
+- ⚡ Fun fact: ... I'm a native french speaker
 
