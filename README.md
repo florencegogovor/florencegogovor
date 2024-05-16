@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🌱 I expect to graduate in July 2025 with a Bachelor’s degree in Cybersecurity and Information Assurance
                       
 - 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ... I'm a native french speaker
+- ⚡ Fun fact: ... I'm a native French speaker
 
